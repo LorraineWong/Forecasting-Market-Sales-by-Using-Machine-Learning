@@ -89,10 +89,10 @@ This project is part of the **WQD7004 Programming for Data Science** course. The
 ---
 
 ## Author
-- LOO LING YAN (23904683)
-- XIAN ZHIYI (23126222)
+- LOO LING YAN (23094683)
+- XIAN ZHIYI (23122622)
 - WONG YI TING (S2152880)
-- CHU JING HAN (23124693)
+- CHU JING HAN (23116920)
 - HAU JIA QI (17204762)
 
 ---
