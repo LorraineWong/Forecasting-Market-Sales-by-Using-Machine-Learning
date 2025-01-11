@@ -84,7 +84,7 @@ This project is part of the **WQD7004 Programming for Data Science** course. The
 
 ## Deployment
 - RPubs: [R Markdown](http://rpubs.com/Lorraine06/WQD7004-OCC3-Group-5)
-- Presentation:
+- Presentation: [Video Link](https://drive.google.com/file/d/1LCjOU7npnWeIhCzIdAkXVJa7InX3Wn_f/view?usp=sharing)
 
 ---
 
